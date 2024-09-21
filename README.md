@@ -1,0 +1,4 @@
+- Prikaz nebeske sfere sa pozicijom zvezde koja je zadata azimutom i altitudom
+- U polja se unose vrednosti koordinata i klikom na dugme 'Promeni poziciju' se prikazuje pozicija zvezde
+- Rađen u PyCharm okruženju
+- Pored numpy i matplotlib paketa, potreban je i PyQt5 paket (zbog Qt5Agg backend-a za grafički prikaz)
